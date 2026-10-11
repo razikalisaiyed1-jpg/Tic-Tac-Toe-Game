@@ -26,5 +26,8 @@ A simple Tic Tac Toe game built using HTML, CSS, and JavaScript.
 3. Get three matching marks in a row, column, or diagonal to win.
 4. Click Reset to start a new game.
 
+## Live Demo
+https://tic-tac-toe-game-git-main-razikali.vercel.app/
+
 ## Author
 Razikali Saiyed
